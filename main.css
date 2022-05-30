@@ -199,3 +199,10 @@ img.logo {
     width: 80%;
   }
 }
+
+@media screen and (max-width: 333px) {
+  div.col.is-6{
+    height: fit-content;
+	  width: auto;
+  }
+}
