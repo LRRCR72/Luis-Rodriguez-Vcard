@@ -151,14 +151,14 @@ img.logo {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
-    font-size: 8vw;
+    font-size: 32px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 5vw;
+    font-size: 18px;
 	
 }
 
@@ -200,9 +200,9 @@ img.logo {
   }
 }
 
-@media screen and (max-width: 333px) {
+@media screen and (max-width: 375px) {
   div.col.is-6{
-    height: fit-content;
+    height: 80%; 
 	  width: auto;
   }
 }
