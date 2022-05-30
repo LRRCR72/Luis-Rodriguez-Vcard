@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Luis;Rodríguez;;;
-FN:  Luis Rodríguez 
+N:Luis; Rodríguez;;;
+FN:Luis Rodríguez 
 ORG:WSI;
 TITLE:Digital Marketing Consultant
 EMAIL;type=INTERNET;type=WORK;type=pref:luis.rodriguez@wsiworld.com
 TEL;type=WORK;type=VOICE:+1 832 847 6849
-TEL;type=WORK;type=VOICE:+52 55 7726 5457
-TEL;type=WORK;type=VOICE:+506 8718 9189
+TEL;type=MOBILE;type=VOICE:+52 55 7726 5457
+TEL;type=MOBILE;type=VOICE:+506 8718 9189
 item1.ADR;type=WORK;type=pref:;;800 Town and Country Blvd.\Houston\, Texas;;;77024;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:wsiworld.com/luis-rodriguez
