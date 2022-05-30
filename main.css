@@ -38,6 +38,11 @@ img.profile-pic {
 	object-fit: cover;
 	border-radius: 50%;
 }
+img.logo {
+	height: 100%;
+	width: 100%;
+	objec-fit: cover;
+}
 
 .container {
 	margin: 0 auto;
